@@ -28,7 +28,7 @@ public class Main {
         service.solveQuiz(1, "Java OOP", "Recap Test");
         service.calculateQuizScore(1, 9);
 
-        // Task test (IMPORTANT)
+        // Task test
         service.addTask(new StudyTask(1, "Learn Streams"));
         service.addTask(new StudyTask(2, "Practice OOP"));
         service.removeTask(2);
