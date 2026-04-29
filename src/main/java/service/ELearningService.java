@@ -7,12 +7,10 @@ import java.util.*;
 
 public class ELearningService {
 
-    // The 3 required collections: List, Map, Set
     private final List<Course> courses = new ArrayList<>();
     private final Map<Integer, User> users = new HashMap<>();
     private final Set<String> courseCategories = new HashSet<>();
 
-    // Additional collections for business logic
     private final List<Enrollment> enrollments = new ArrayList<>();
     private final List<Task> tasks = new ArrayList<>();
     private final Map<Integer, Progress> studentProgress = new HashMap<>();
