@@ -9,7 +9,20 @@ public class Lesson {
         this.title = title;
     }
 
+    public int getId() {
+        return id;
+    }
+
     public String getTitle() {
         return title;
+    }
+
+    public String getLessonType() {
+        return "General Lesson";
+    }
+
+    @Override
+    public String toString() {
+        return getLessonType() + ": " + title;
     }
 }

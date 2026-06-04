@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/repository/LessonRepository.java" value="24d774fb-b7eb-47c6-9bfd-30f8aa672fe5" />
+    <file url="file://$PROJECT_DIR$/src/main/java/repository/ProgressRepository.java" value="24d774fb-b7eb-47c6-9bfd-30f8aa672fe5" />
+    <file url="file://$PROJECT_DIR$/src/main/java/repository/QuizRepository.java" value="24d774fb-b7eb-47c6-9bfd-30f8aa672fe5" />
+    <file url="file://$PROJECT_DIR$/src/main/java/repository/TaskRepository.java" value="24d774fb-b7eb-47c6-9bfd-30f8aa672fe5" />
+    <file url="file://$PROJECT_DIR$/src/main/java/repository/UserRepository.java" value="24d774fb-b7eb-47c6-9bfd-30f8aa672fe5" />
+  </component>
+</project>

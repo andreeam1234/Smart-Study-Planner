@@ -15,4 +15,11 @@ public class Progress implements Trackable {
     public void showProgress() {
         System.out.println("Student progress for " + student.getName() + ": " + score + " points.");
     }
+    public Student getStudent() {
+        return student;
+    }
+
+    public int getScore() {
+        return score;
+    }
 }
